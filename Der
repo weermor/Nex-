@@ -1,9 +1,4 @@
-{
-  "users": [
-    {
-      "username": "weermor",
-      "password_hash": "12563910",
-      "hwid": ""
-    }
-  ]
-}
+Nikname: weermor
+password: 123
+hwid: bd7f95c28ee6e78a2a9317d57a0cad8331fdbc69b32e8466d6e94eb5acffe455
+---
